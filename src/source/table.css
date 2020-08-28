@@ -1,0 +1,47 @@
+.tableBox{
+    padding:10px;
+}
+
+.columnBox{
+    float: left;
+    width: 100%;
+}
+
+.table{
+    width:100%;
+}
+
+.tableTitle p{
+    font-size: xx-large;
+}
+
+.tableContentWidth{
+    width:50%;
+}
+
+.pagination{
+    margin-left:25%;
+    margin-right: auto;
+}
+
+.table th{
+    font-size: small;
+}
+
+.table td{
+    font-size: small;
+    padding:5px;
+}
+
+.contentTitle p{
+    font-size: x-large;
+}
+
+.letterBox{
+    font-size: large;
+}
+
+.backbutton{
+    float: right;
+    margin-right:50px;
+}

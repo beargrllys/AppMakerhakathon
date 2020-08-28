@@ -1,0 +1,33 @@
+.menu_icon_title{
+    padding:5px;
+    font-weight: bold;
+    background-color: #888b81;
+    border: none;
+}
+
+.menu_icon{
+  padding:5px;
+  background-color: rgb(49,53,61);
+  color:white;
+  border-bottom: 0.1px solid rgb(207, 207, 207); 
+  height:80px;
+  padding:25px;
+  font-weight: bold;
+  width:100%;
+  text-align: left;
+}
+
+.menu_icon > a > span{
+    color:rgb(172,176,182);
+  }
+
+.image_size{
+  width:300px;
+  height:100px;
+  border-bottom: 0.1px solid rgb(207, 207, 207); 
+}
+
+.contest_Menu{
+  padding:5px;
+  height:40px;
+}

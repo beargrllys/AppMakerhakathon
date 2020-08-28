@@ -1,0 +1,112 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "member": [
+    {
+      "id": 1,
+      "email": "js_7744@gmail.com",
+      "password": 7744,
+      "name": "윤지상",
+      "phone": "010-3454-0511",
+      "school": "한양대학교",
+      "reigion": "천안",
+      "role": "개발자",
+      "ability": 2,
+      "admin": 1,
+      "admincontest": "A_hakathon"
+    },
+    {
+      "id": 2,
+      "email": "fdgg@gmail.com",
+      "password": 12345,
+      "name": "김사루",
+      "phone": "3222-5425",
+      "school": "선문대학교",
+      "reigion": "대전",
+      "role": "디자이너",
+      "ability": 3,
+      "admin": 0
+    },
+    {
+      "id": 3,
+      "email": "eryr@gmail.com",
+      "password": 12345,
+      "name": "이시리",
+      "phone": "523-22",
+      "school": "순천향대학교",
+      "reigion": "수원",
+      "role": "기획자",
+      "ability": 4,
+      "admin": 0
+    },
+    {
+      "id": 4,
+      "email": "fdgdfh@gmail.com",
+      "password": 12345,
+      "name": "고미리",
+      "phone": "23-52",
+      "school": "상명대학교",
+      "reigion": "서울",
+      "role": "디자이너",
+      "ability": 3,
+      "admin": 0
+    },
+    {
+      "id": 5,
+      "email": "sgsg@gmail.com",
+      "password": 12345,
+      "name": "우미사",
+      "phone": "2332-535",
+      "school": "한국대학교",
+      "reigion": "평택",
+      "role": "기획자",
+      "ability": 1,
+      "admin": 0
+    },
+    {
+      "id": 6,
+      "email": "sgsrhr@gmail.com",
+      "password": 12345,
+      "name": "가리오",
+      "phone": "332-532",
+      "school": "해양대학교",
+      "reigion": "진해",
+      "role": "개발자",
+      "ability": 2,
+      "admin": 0
+    },
+    {
+      "id": 7,
+      "email": "egswe@gmail.com",
+      "password": 12345,
+      "name": "아리나",
+      "phone": "325-235",
+      "school": "항공대학교",
+      "reigion": "창원",
+      "role": "개발자",
+      "ability": 3,
+      "admin": 0
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+.sideCase{
+    display:table;
+    margin-left:auto;
+    margin-right:auto;
+    padding:50px;
+    border: 2px solid black;
+    border-radius: 5%;
+}
+
+.sideTitle{
+    margin: 20px;
+    font-size: x-large;
+}
+
+.sideTitle p{
+    text-align: center;
+}
+
+.profileImageBox{
+    width: 150px;
+    height: 150px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 70%;
+    overflow: hidden;
+}
+
+.profileImage{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+
+.profileName{
+    text-align: center;
+}
+
+.fontLarge{
+    font-size: large;
+    margin: 3px;
+}
+
+.fontMiddle{
+    font-size: medium;
+    margin: 1px;
+}
+
+.editButton{
+    width:15px;
+    height:15px;
+    background: url('./image/adjust.png') no-repeat;
+    cursor: pointer;
+    border: none;
+}
+
+.profileContent{
+    width: 100%;
+    margin-bottom: 15px; 
+}
+
+.friendListContent{
+    width:100%;
+    padding: 5px;
+    float:left;
+    border: 1px solid #ccc!important;
+}
+
+.friendPic{
+    width:50px;
+    height:50px;
+    border-radius: 70%;
+    overflow: hidden;
+}
+
+.friendPicBox{
+    width:50px;
+    height:50px;
+    border-radius: 70%;
+    margin-right: 5px;
+    overflow: hidden;
+    float:left;
+}
+
+.friendText{
+    font-size:middle;
+    float:left;
+    width:60%;
+}
+
+.friendName{
+    font-size:medium;
+    font-weight: bold;
+    margin:1px;
+}
+
+.friendExplain{
+    font-size:small;
+    font-weight:normal;
+    margin:1px;
+}
+
+.friendButton{
+    font-size: xx-small;
+    margin:0px 0px 3px 0px;
+    padding:0px;
+    float: left;
+}
+
+.friendButtonBox{
+    width:20%;
+    float: left;
+    margin-top:5px;
+}
+
+.iconBox{
+    position: relative;
+    margin-left: 40%;
+}
+.iconPlus{
+    cursor: pointer;
+    border: none;
+    background: transparent;
+    margin:5px;
+    padding:0px;
+
+    display: table-cell;
+}
+
+.iconPlus svg{
+    color: gray;
+}
+
+.contestDropdownCustom{
+    width: 500px;
+    margin: 35px;
+}
+
+.fillDropdown{
+    width:500px;
+    background-color:#888b81;
+    border: 0.5px solid black;
+    border-radius: 0px;
+
+}
+
+.contestDropdownText{
+    width:500;
+    background-color:white;
+}
+
+.divLeft{
+    float: left;
+}
+
+.divRight{
+    float: right;
+}
+
+.loginMargin{
+    float: right;
+    text-align: center;
+    width: 100px;
+    margin-right:50px;
+    margin-top: 25px;
+    border:0.2px solid black;
+}
+
+.loginSecBox:after{ clear: both; display: block; content: '' }
+
+
+.loginSecItem{
+    float: left;
+    text-align: center;
+    margin-left:10px;
+}
+
+.loginImage{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+
+.LoginBox{
+    width:300px;
+    height:250px;
+    background-color:white;
+    padding:20px;
+}
+
+.friendBox{
+    margin-left: 20%;
+    margin-top: 20%;
+}
+
+.TopMenuBox{
+    margin-top: 30px;
+    border: 0.2px solid black;
+  }

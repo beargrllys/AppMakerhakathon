@@ -1,0 +1,104 @@
+.footer{
+    grid-area: footer;
+    background-color: #343a40;
+    height: 100px;
+  }
+
+  .signupBox{
+    width: 50%;
+    margin-left:25%;
+  }
+
+  .Plusicon{
+    width:50px;
+    height:50px;
+    margin-top:20px;
+    margin-left:45%;
+  }
+
+  .submitButton{
+    margin-top: 15px;
+  }
+
+  .adminModeButton{
+    float: left;
+  }
+
+  .personBox .name{
+    width:40%;
+    text-align:left
+  }
+
+  .personBox .role{
+    width:50%;
+    float: right;
+  }
+
+  .teamnameBox{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .teamname{
+    width:70%;
+  }
+
+  .editButton{
+    width:20%;
+  }
+
+  .personBox{
+    display: flex;
+    flex-direction: row;
+    font-size:20px;
+  }
+
+  .teamBox{
+    border: 1px solid black;
+    height:35vh;
+    padding:30px;
+    margin:10px;
+    width:100%;
+  }
+
+  .teammateListBox{
+    font-size: medium;
+    width:100%;
+  }
+
+  .letterBox{
+    text-align:left
+  }
+
+  .flex-container{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .teamEditBox{
+    display: flex;
+    border: 1px solid black;
+    height:60vh;
+    margin:40px;
+  }
+
+  .boxTitle{
+    width:80%;
+    margin:10px;
+    margin-left:auto;
+    margin-right:auto;
+    flex-direction: row;
+  }
+
+  .titleMargin{
+    margin-top:50px;
+    
+  }
+
+  .editSite{
+    font-size:large;
+  }
+
+  .buttonMargin{
+    margin:10px;
+  }
